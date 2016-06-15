@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MovieReviewSPA-Skeleton.Data", "MovieReviewSPA-Skeleton.Data\MovieReviewSPA-Skeleton.Data.xproj", "{8932ECA5-0946-4CAB-A98F-E31CEC8D223E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MovieReviewSPA-Skeleton.Data.Contracts", "MovieReviewSPA-Skeleton.Data.Contracts\MovieReviewSPA-Skeleton.Data.Contracts.xproj", "{B752A404-F250-4089-BB27-11585C175E2C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MovieReviewSPA-Skeleton.Model", "MovieReviewSPA-Skeleton.Model\MovieReviewSPA-Skeleton.Model.xproj", "{E6417FED-BA80-458C-8106-3C7E1685DF0A}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MovieReviewSPA-Skeleton.Web", "MovieReviewSPA-Skeleton.Web\MovieReviewSPA-Skeleton.Web.xproj", "{E29D3B79-79CA-495E-9EA6-BE840CB8D26F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieReviewSPA-Skeleton.Tests", "MovieReviewSPA-Skeleton.Tests\MovieReviewSPA-Skeleton.Tests.csproj", "{70CB4798-9A5F-4A03-BF5E-B06CCA88F623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8932ECA5-0946-4CAB-A98F-E31CEC8D223E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8932ECA5-0946-4CAB-A98F-E31CEC8D223E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8932ECA5-0946-4CAB-A98F-E31CEC8D223E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8932ECA5-0946-4CAB-A98F-E31CEC8D223E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B752A404-F250-4089-BB27-11585C175E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B752A404-F250-4089-BB27-11585C175E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B752A404-F250-4089-BB27-11585C175E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B752A404-F250-4089-BB27-11585C175E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6417FED-BA80-458C-8106-3C7E1685DF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6417FED-BA80-458C-8106-3C7E1685DF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6417FED-BA80-458C-8106-3C7E1685DF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6417FED-BA80-458C-8106-3C7E1685DF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29D3B79-79CA-495E-9EA6-BE840CB8D26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29D3B79-79CA-495E-9EA6-BE840CB8D26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29D3B79-79CA-495E-9EA6-BE840CB8D26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29D3B79-79CA-495E-9EA6-BE840CB8D26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CB4798-9A5F-4A03-BF5E-B06CCA88F623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CB4798-9A5F-4A03-BF5E-B06CCA88F623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CB4798-9A5F-4A03-BF5E-B06CCA88F623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CB4798-9A5F-4A03-BF5E-B06CCA88F623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
